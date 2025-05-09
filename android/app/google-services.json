@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991735962917",
+    "project_id": "healthsage-a9a34",
+    "storage_bucket": "healthsage-a9a34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991735962917:android:cce877e17ca2631b14cecc",
+        "android_client_info": {
+          "package_name": "com.example.authapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKTTxl2WyPfUyHuQ5ISFC8kEue3hOff9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
